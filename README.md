@@ -26,9 +26,9 @@ Maybe I should look for more specific data: gpu, cpu, supercomputer...
 
 ### Gpu
 
-The best I find is [karlrupp](https://www.karlrupp.net/2013/06/cpu-gpu-and-mic-hardware-characteristics-over-time/). I will have to add data from the new gpus.
+The best I find is [karlrupp](https://www.karlrupp.net/2013/06/cpu-gpu-and-mic-hardware-characteristics-over-time/).
 
-https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units
+I will have to add data from the new gpus. One source is the [wikipedia page](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units).
 
 ### Cpu
 
