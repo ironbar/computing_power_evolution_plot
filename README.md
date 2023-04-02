@@ -1,5 +1,7 @@
 # Computing power plot
 
+![computing_power_plot](figure.png)
+
 The aim of this project is to create a beautiful plot of the evolution of the
 computer power.
 It should have some photos and look nice.  
